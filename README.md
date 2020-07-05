@@ -13,4 +13,7 @@ Clarifai is the leading, independent, all-in-one enterprise platform for compute
 - We will use the GENERAL MODEL of Clarifai for Scene Recognition
 
 ## Entire Flow
-![alt text](https://github.com/MohammedaijazS-Hexaware/scene-recognition/blob/master/Untitled Diagram.png?raw=true)
+![alt text](https://github.com/MohammedaijazS-Hexaware/scene-recognition/blob/master/Untitled%20Diagram.png)
+
+## Key points to Remember
+- Replace the string 'Your API Here' in screen2.js to your API Key
