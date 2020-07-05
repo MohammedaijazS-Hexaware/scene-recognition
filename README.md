@@ -9,6 +9,8 @@ npm install
 ## Getting Started with Clarifai
 Clarifai is the leading, independent, all-in-one enterprise platform for computer vision and AI that uses advanced machine learning to understand images, videos and text.
 - Login or Signup to Clarifai by using the link here https://www.clarifai.com/
-- This will allow you to use the GENERAL MODEL of Clarifai for Scene Recognition
-## Entire Flow
+- An API KEY will be given which is used for accessing the models of Clarifai.
+- We will use the GENERAL MODEL of Clarifai for Scene Recognition
 
+## Entire Flow
+![alt text](https://github.com/MohammedaijazS-Hexaware/scene-recognition/blob/master/Untitled Diagram.png?raw=true)
